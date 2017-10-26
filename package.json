@@ -1,0 +1,22 @@
+{
+  "name": "gp4-indexjs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moruifei6/gp4-indexjs.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mrf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moruifei6/gp4-indexjs/issues"
+  },
+  "homepage": "https://github.com/moruifei6/gp4-indexjs#readme"
+}
